@@ -1,0 +1,646 @@
+{
+  "title": "The history of the aeroplane",
+  "tagline": "From Cayley's sketches and Lilienthal's gliders to the Wright brothers, Indian pilots and the jets of today.",
+  "intro": "People knew that a curved wing could carry a load long before anyone flew in a powered machine. Gliders taught wing design, but the Wright brothers' steering and engine made flight practical in 1903. In India, Tata's licence and the Indian Air Force followed in the 1930s.",
+  "eras": [
+    {
+      "id": "idea",
+      "name": "The idea",
+      "from": 1799,
+      "to": 1903,
+      "color": "#c49bff",
+      "summary": "Engineers worked out the parts: a curved wing, a separate push and a steering tail. Gliders taught people how a wing carries a load, and the Wright brothers added control."
+    },
+    {
+      "id": "first",
+      "name": "First flights",
+      "from": 1903,
+      "to": 1927,
+      "color": "#ffb547",
+      "summary": "Powered flight went from a 12-second hop to crossings of the sea. Each record was a test of the aeroplane's control and endurance."
+    },
+    {
+      "id": "india",
+      "name": "India takes off",
+      "from": 1911,
+      "to": 1961,
+      "color": "#8ef0ff",
+      "summary": "The first airmail in India flew in 1911. Indian pilots, the Indian Air Force and Indian aircraft makers followed, starting in the 1930s."
+    },
+    {
+      "id": "jets",
+      "name": "Jets and the sky today",
+      "from": 1937,
+      "to": 2026,
+      "color": "#ff7a59",
+      "summary": "Jet engines replaced the propeller on big aircraft. Turbofans, wide-body airliners and modern regional flights carry most of the world's passengers today."
+    }
+  ],
+  "events": [
+    {
+      "year": 1799,
+      "date": "1799",
+      "era": "idea",
+      "art": "wing",
+      "key": true,
+      "title": "Cayley sets out the parts of an aeroplane",
+      "who": "Sir George Cayley",
+      "where": "England",
+      "country": "United Kingdom",
+      "text": "Cayley argued that lift, thrust and control should be separate jobs: a fixed curved wing, a separate push, and a movable tail. Most histories date this idea to 1799.",
+      "why": "It is the blueprint that every later aeroplane followed.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1853,
+      "date": "c. 1853",
+      "era": "idea",
+      "art": "wing",
+      "key": false,
+      "title": "Cayley's glider carries a person",
+      "who": "Sir George Cayley",
+      "where": "Brompton, near Scarborough, England",
+      "country": "United Kingdom",
+      "text": "Accounts say his glider carried a coachman a short distance down a hill. The details differ between sources, so treat this flight as less certain.",
+      "why": "It showed that a fixed wing could carry a person through the air.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1890,
+      "date": "9 October 1890 (dated by most historians)",
+      "era": "idea",
+      "art": "plane",
+      "key": false,
+      "title": "Ader's Éole takes off under its own power",
+      "who": "Clément Ader",
+      "where": "Château d'Armainvilliers, near Paris, France",
+      "country": "France",
+      "text": "The Éole rose from level ground under its own power and covered about 50 metres, a few tens of centimetres high. It could not be steered well, and Ader's later claims are disputed.",
+      "why": "It was an early powered take-off, though control was not solved.",
+      "box": "",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "1891 to 1896",
+      "era": "idea",
+      "art": "wing",
+      "key": true,
+      "title": "Lilienthal's gliders",
+      "who": "Otto Lilienthal",
+      "where": "Berlin and Lichterfelde, Germany",
+      "country": "Germany",
+      "text": "Between 1891 and 1896 Otto Lilienthal made thousands of glides in hang gliders of his own design. He steered by shifting his body under the wing.",
+      "why": "His careful data and flights taught the next generation how wings carry loads.",
+      "box": "",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1903,
+      "date": "17 December 1903",
+      "era": "first",
+      "art": "plane",
+      "key": true,
+      "title": "The Wright brothers fly",
+      "who": "Orville and Wilbur Wright",
+      "where": "Kill Devil Hills, North Carolina, USA",
+      "country": "United States",
+      "text": "Orville flew about 120 feet (36.6 m) in 12 seconds. On the fourth flight, Wilbur flew 852 feet in 59 seconds. The brothers had also built a way to steer in the air.",
+      "why": "It was the first controlled, powered, sustained flight of a heavier-than-air machine.",
+      "box": "",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "23 October 1906 (some records give another date)",
+      "era": "first",
+      "art": "plane",
+      "key": false,
+      "title": "Santos-Dumont flies the 14-bis in Paris",
+      "who": "Alberto Santos-Dumont",
+      "where": "Bagatelle, Paris, France",
+      "country": "France / Brazil",
+      "text": "The 14-bis made a powered hop in front of a crowd and in front of cameras. Some records give other dates for later flights.",
+      "why": "It was one of the first powered flights witnessed and filmed in public.",
+      "box": "",
+      "sources": [
+        13
+      ]
+    },
+    {
+      "year": 1909,
+      "date": "25 July 1909",
+      "era": "first",
+      "art": "plane",
+      "key": true,
+      "title": "Blériot crosses the Channel",
+      "who": "Louis Blériot",
+      "where": "Calais to Dover, England",
+      "country": "France",
+      "text": "Blériot flew a single-seat monoplane from near Calais to Dover in about 36 to 37 minutes. Sources differ slightly on the time.",
+      "why": "It was a public sensation and showed that an aeroplane could cross the sea.",
+      "box": "",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "18 February 1911",
+      "era": "india",
+      "art": "plane",
+      "key": true,
+      "title": "The first airmail flight in India",
+      "who": "Henri Pequet",
+      "where": "Allahabad, India",
+      "country": "India",
+      "text": "Pequet flew a biplane about 10 km from a polo field to Naini, carrying about 6,500 letters and cards marked for the exhibition in Allahabad.",
+      "why": "It is often recorded as the first official airmail flight in the world.",
+      "box": "",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1919,
+      "date": "14 to 15 June 1919",
+      "era": "first",
+      "art": "plane",
+      "key": false,
+      "title": "Alcock and Brown fly the Atlantic non-stop",
+      "who": "John Alcock and Arthur Whitten Brown",
+      "where": "St John's, Newfoundland to Clifden, Ireland",
+      "country": "United Kingdom",
+      "text": "In a twin-engined Vickers Vimy they flew about 3,000 km overnight, through fog and snow. They landed in a bog they had mistaken for a field.",
+      "why": "It was the first non-stop crossing of the Atlantic by air.",
+      "box": "",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "20 to 21 May 1927",
+      "era": "first",
+      "art": "plane",
+      "key": true,
+      "title": "Lindbergh flies New York to Paris alone",
+      "who": "Charles Lindbergh",
+      "where": "New York to Paris, France",
+      "country": "United States",
+      "text": "Lindbergh flew solo in the Spirit of St. Louis for 33.5 hours, covering about 5,800 km.",
+      "why": "It won the $25,000 Orteig Prize and drew public attention to long-distance flight.",
+      "box": "",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "10 February 1929",
+      "era": "india",
+      "art": "person",
+      "key": true,
+      "title": "J.R.D. Tata becomes India's first licensed pilot",
+      "who": "J.R.D. Tata",
+      "where": "Bombay (Mumbai), India",
+      "country": "India",
+      "text": "Tata received licence No. 1 issued in India. Sources differ on the licence class.",
+      "why": "Indian aviation began with Indian pilots holding Indian licences.",
+      "box": "",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1932,
+      "date": "15 October 1932",
+      "era": "india",
+      "art": "plane",
+      "key": false,
+      "title": "Tata's airmail flight from Karachi to Bombay",
+      "who": "J.R.D. Tata",
+      "where": "Karachi to Juhu, Bombay, India",
+      "country": "India",
+      "text": "Tata flew a single-engine de Havilland Puss Moth from Karachi to Juhu, stopping at Ahmedabad, with about 25 kg of letters.",
+      "why": "It was the start of Tata's airline, later Air India.",
+      "box": "",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1932,
+      "date": "8 October 1932 (Gazette date; the Act passed earlier in 1932)",
+      "era": "india",
+      "art": "wing",
+      "key": true,
+      "title": "The Indian Air Force is set up",
+      "who": "British Indian government",
+      "where": "British India",
+      "country": "India",
+      "text": "The Indian Air Force was created as an auxiliary of the Royal Air Force. A Bharat-Rakshak article notes that the Act was passed in April 1932 and that 8 October is the Gazette date.",
+      "why": "It began India's own air arm, which later became the Royal Indian Air Force and then the Indian Air Force.",
+      "box": "",
+      "sources": [
+        3,
+        4,
+        9
+      ]
+    },
+    {
+      "year": 1933,
+      "date": "1 April 1933",
+      "era": "india",
+      "art": "wing",
+      "key": false,
+      "title": "First squadron of the Indian Air Force",
+      "who": "Indian Air Force",
+      "where": "Drigh Road, Karachi, British India",
+      "country": "India",
+      "text": "No. 1 Squadron was commissioned with four Westland Wapiti biplanes and five Indian pilots.",
+      "why": "It turned the new air force into a working unit.",
+      "box": "",
+      "sources": [
+        4,
+        9
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "12 April 1937",
+      "era": "jets",
+      "art": "engine",
+      "key": false,
+      "title": "Whittle's first jet engine run",
+      "who": "Frank Whittle and Power Jets",
+      "where": "Rugby, England",
+      "country": "United Kingdom",
+      "text": "Whittle's first test run went badly: the engine sped up out of control. Historians still count it as the first run of a turbojet, though it was not built to fly.",
+      "why": "It was the first test of the jet engine idea that changed flight.",
+      "box": "",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1939,
+      "date": "27 August 1939",
+      "era": "jets",
+      "art": "engine",
+      "key": false,
+      "title": "The first jet-powered flight",
+      "who": "Erich Warsitz and Heinkel",
+      "where": "Germany",
+      "country": "Germany",
+      "text": "The Heinkel He 178 flew on the thrust of a turbojet on 27 August 1939. The flight lasted about six minutes.",
+      "why": "It showed that a jet engine could power a flying aircraft.",
+      "box": "",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1949,
+      "date": "27 July 1949",
+      "era": "jets",
+      "art": "plane",
+      "key": true,
+      "title": "The de Havilland Comet first flies",
+      "who": "de Havilland; test pilot John Cunningham",
+      "where": "Hatfield, England",
+      "country": "United Kingdom",
+      "text": "The Comet, the first commercial jet airliner, made its maiden flight from Hatfield. BOAC began the first jet passenger service in May 1952.",
+      "why": "It started the jet age for passengers and cut long-distance travel times.",
+      "box": "",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1952,
+      "date": "2 May 1952",
+      "era": "jets",
+      "art": "plane",
+      "key": false,
+      "title": "The first jet airliner enters passenger service",
+      "who": "BOAC",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "BOAC began the first scheduled jet passenger service with the Comet on 2 May 1952.",
+      "why": "Jets began carrying fare-paying passengers.",
+      "box": "",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1961,
+      "date": "17 June 1961",
+      "era": "india",
+      "art": "plane",
+      "key": false,
+      "title": "The HF-24 Marut flies",
+      "who": "Hindustan Aeronautics Limited",
+      "where": "Bangalore, India",
+      "country": "India",
+      "text": "HAL's HF-24 Marut, designed in India, made its first flight on 17 June 1961. A pre-production test aircraft had flown earlier, in 1959.",
+      "why": "It was an early Indian-designed jet fighter.",
+      "box": "",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1969,
+      "date": "9 February 1969",
+      "era": "jets",
+      "art": "plane",
+      "key": true,
+      "title": "The Boeing 747 first flies",
+      "who": "Boeing",
+      "where": "Everett, Washington, USA",
+      "country": "United States",
+      "text": "The 747 first flew on 9 February 1969 and was certified in December 1969. It is a wide-body airliner with two aisles.",
+      "why": "It carried far more passengers than earlier jets and made long-haul flying cheaper per seat.",
+      "box": "",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 2001,
+      "date": "4 January 2001",
+      "era": "india",
+      "art": "plane",
+      "key": true,
+      "title": "Tejas, India's light combat aircraft, first flies",
+      "who": "Hindustan Aeronautics Limited and DRDO",
+      "where": "Bangalore, India",
+      "country": "India",
+      "text": "The first technology demonstrator, TD-1 of the Light Combat Aircraft programme, flew on 4 January 2001.",
+      "why": "It was the start of India's own light combat aircraft.",
+      "box": "",
+      "sources": [
+        11
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "21 October 2016",
+      "era": "india",
+      "art": "compass",
+      "key": true,
+      "title": "UDAN launches to connect smaller cities",
+      "who": "Ministry of Civil Aviation",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "The Regional Connectivity Scheme, UDAN ('Ude Desh ka Aam Nagrik'), launched on 21 October 2016. Airlines bid for routes, and the government funds part of the gap in costs for flights to smaller airports.",
+      "why": "It was India's main scheme to bring affordable flights to smaller cities.",
+      "box": "",
+      "sources": [
+        23
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First controlled powered flight",
+      "value": "17 Dec 1903",
+      "who": "Wright brothers, USA"
+    },
+    {
+      "label": "First non-stop Atlantic crossing",
+      "value": "14–15 Jun 1919",
+      "who": "Alcock and Brown"
+    },
+    {
+      "label": "First licence issued in India",
+      "value": "10 Feb 1929",
+      "who": "J.R.D. Tata"
+    },
+    {
+      "label": "First airmail flight in India",
+      "value": "18 Feb 1911",
+      "who": "Henri Pequet, Allahabad"
+    },
+    {
+      "label": "First commercial jet passenger service",
+      "value": "2 May 1952",
+      "who": "BOAC, Comet"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sir George Cayley",
+      "life": "1773 – 1857",
+      "role": "Engineer and aeronautical pioneer",
+      "from": "England",
+      "note": "Separated lift, thrust and control, and built gliders that carried a person."
+    },
+    {
+      "name": "Otto Lilienthal",
+      "life": "1848 – 1896",
+      "role": "Engineer and glider pilot",
+      "from": "Germany",
+      "note": "Made thousands of glides and steered by moving his body under the wing."
+    },
+    {
+      "name": "Henri Pequet",
+      "life": "Dates not checked",
+      "role": "Pilot",
+      "from": "France",
+      "note": "Flew the first Indian airmail at Allahabad in 1911."
+    },
+    {
+      "name": "J.R.D. Tata",
+      "life": "1904 – 1993",
+      "role": "Industrialist and pilot",
+      "from": "India",
+      "note": "Held India's first licence and flew the first Indian airmail in 1932."
+    },
+    {
+      "name": "Frank Whittle",
+      "life": "1907 – 1996",
+      "role": "Engineer",
+      "from": "England",
+      "note": "Designed the first practical jet engine and ran it in 1937."
+    }
+  ],
+  "series": [
+    {
+      "id": "range",
+      "title": "The longest single flight, by distance",
+      "unit": "km",
+      "log": true,
+      "after": "first",
+      "caption": "Each point is a single flight. The Wright brothers' first flight covered 36.6 metres.",
+      "points": [
+        {
+          "year": 1903,
+          "value": 0.0366,
+          "label": "Wright brothers, 1903: about 36.6 m"
+        },
+        {
+          "year": 1919,
+          "value": 3000,
+          "label": "Alcock and Brown, 1919: about 3,000 km"
+        },
+        {
+          "year": 1927,
+          "value": 5800,
+          "label": "Lindbergh, 1927: about 5,800 km"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "The Wright brothers' first flight lasted 12 seconds. Their fourth flight the same day lasted 59.",
+    "Pequet's 1911 mail flight at Allahabad carried about 6,500 letters.",
+    "Lindbergh's solo flight across the Atlantic took 33.5 hours.",
+    "The first Indian licence, No. 1, was issued to J.R.D. Tata in February 1929.",
+    "ICAO's 2024 figure is about 2.6 accidents per million departures for scheduled commercial flights."
+  ],
+  "sources": [
+    {
+      "title": "The century before: 1799 to 1859 (Wright Brothers Aeroplane Company)",
+      "publisher": "Wright Brothers Aeroplane Company",
+      "url": "https://www.wright-brothers.org/History_Wing/History_of_the_Airplane/Century_Before/First_Airplanes/First_Airplanes.htm"
+    },
+    {
+      "title": "1903: The First Heavier-than-Air Flight (Fact Sheet)",
+      "publisher": "US Air Force History Office",
+      "url": "https://www.afhistory.af.mil/FAQs/Fact-Sheets/Article/459013/1903-the-first-heavier-than-air-flight"
+    },
+    {
+      "title": "Wright Brothers National Memorial: The Wright Brothers Fly (NPS handbook)",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/parkhistory/online_books/hh/34/hh34m.htm"
+    },
+    {
+      "title": "Bharat-Rakshak: Indian Air Force history article",
+      "publisher": "Bharat-Rakshak",
+      "url": "https://www.bharat-rakshak.com/IAF/?p=4798"
+    },
+    {
+      "title": "Indian Air Force",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indian_Air_Force"
+    },
+    {
+      "title": "Boeing 747",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_747"
+    },
+    {
+      "title": "J. R. D. Tata",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/JRD_Tata"
+    },
+    {
+      "title": "Wings for a nation",
+      "publisher": "Tata Group newsroom",
+      "url": "https://tata.com/newsroom/wings-for-a-nation"
+    },
+    {
+      "title": "The Little-Known Story of the First Air India Flight in 1932",
+      "publisher": "The Better India (secondary)",
+      "url": "https://www.thebetterindia.com/92669/air-india-jrd-tata-airlines-karachi-bombay/"
+    },
+    {
+      "title": "The Royal Indian Air Force, 1932 to 1947",
+      "publisher": "RAF Museum",
+      "url": "https://rafmuseum.org.uk/?p=9673"
+    },
+    {
+      "title": "HAL HF-24 Marut",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/HAL_HF-24_Marut"
+    },
+    {
+      "title": "25 Years On: My Recollections of The 1st Tejas Flight",
+      "publisher": "Live Fist Defence (secondary)",
+      "url": "https://www.livefistdefence.com/25-years-on-my-recollections-of-the-1st-tejas-flight/"
+    },
+    {
+      "title": "9 October 1890: first take-off of Ader's Eole",
+      "publisher": "Fédération Aéronautique Internationale",
+      "url": "https://www.fai.org/node/186840"
+    },
+    {
+      "title": "Santos-Dumont 14-bis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Santos-Dumont_14-bis"
+    },
+    {
+      "title": "The first non-stop transatlantic air crossing",
+      "publisher": "University of Cambridge",
+      "url": "https://cam.ac.uk/node/205902"
+    },
+    {
+      "title": "The First Non-Stop Transatlantic Flight by Alcock and Brown in 1919",
+      "publisher": "Western Front Association",
+      "url": "https://www.westernfrontassociation.com/world-war-i-articles/the-first-non-stop-transatlantic-flight"
+    },
+    {
+      "title": "Charles Lindbergh: 33.5 Hours Alone Over the Atlantic (secondary)",
+      "publisher": "Migflug (secondary)",
+      "url": "https://migflug.com/afterburner/charles-lindbergh-33-5-hours-alone-over-the-atlantic/"
+    },
+    {
+      "title": "Blériot's Channel crossing, 25 July 1909 (secondary)",
+      "publisher": "Migflug (secondary)",
+      "url": "https://migflug.com/afterburner/?p=175441"
+    },
+    {
+      "title": "Fight or flight: the startling start of Whittle's first jet engine",
+      "publisher": "GE Aerospace",
+      "url": "https://www.geaerospace.com/news/articles/100-year-anniversary-technology/fight-or-flight-startling-start-whittles-first-jet-engine"
+    },
+    {
+      "title": "Heinkel He 178",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Heinkel_He_178"
+    },
+    {
+      "title": "De Havilland Comet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/De_Havilland_Comet"
+    },
+    {
+      "title": "Henri Pequet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henri_Pequet"
+    },
+    {
+      "title": "Regional Connectivity Scheme UDAN: Ministry of Civil Aviation document (PIB host)",
+      "publisher": "Ministry of Civil Aviation",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/apr/doc2025426546101.pdf"
+    },
+    {
+      "title": "Operational airports, India (DGCA website snapshot, October 2025)",
+      "publisher": "DGCA",
+      "url": "https://www.civilaviation.gov.in/"
+    },
+    {
+      "title": "ICAO State of Global Aviation Safety 2025 (press summary of 2024 figures)",
+      "publisher": "ICAO (via press coverage)",
+      "url": "https://www.icao.int/"
+    }
+  ]
+}

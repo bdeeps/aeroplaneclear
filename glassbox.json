@@ -1,0 +1,97 @@
+{
+  "slug": "aeroplaneclear",
+  "box": 168,
+  "date": "2026-10-13",
+  "title": "AeroplaneClear",
+  "question": "How does an aeroplane fly?",
+  "hook": "An aeroplane is not sucked up into the sky. Its wings turn the air down, and the air pushes the wing up. Tilt a wing until it stalls, pull an airliner of about 78 tonnes apart, and see why a take-off in Leh needs a longer runway.",
+  "thumbText": "HOW AN AEROPLANE FLIES",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "aeroplane",
+    "flight",
+    "lift",
+    "aerodynamics",
+    "physics"
+  ],
+  "explainer": [
+    {
+      "title": "The one-line idea",
+      "text": "A wing makes lift by turning the air down. The air pushes the wing up, and the faster the wing moves through the air, the more it can lift."
+    },
+    {
+      "title": "The part people get wrong",
+      "text": "The air over the top of a wing does not have to rush to meet the air below. That equal transit time story is wrong, and it explains only a small part of the lift."
+    },
+    {
+      "title": "Lift against drag",
+      "text": "In level flight the engines push as hard as the drag pushes back. A climb needs extra thrust, and thin air at a high or hot airport means a longer take-off run."
+    },
+    {
+      "title": "Controls and flaps",
+      "text": "The elevator tilts the nose, the ailerons roll, and the rudder yaws. Flaps lower the stall speed for take-off and landing, and the price is more drag."
+    },
+    {
+      "title": "The jet and the glide",
+      "text": "A turbofan moves a large mass of air a little, which is efficient. With both engines stopped, the aeroplane still glides, several kilometres for each kilometre it falls."
+    },
+    {
+      "title": "How we learned",
+      "text": "From Cayley's ideas and Lilienthal's gliders to the Wright brothers in 1903, Tata's first Indian licence in 1929 and the Indian Air Force in 1932."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Lift",
+      "def": "The upward force on a wing, equal to ½ × air density × speed² × wing area × lift coefficient."
+    },
+    {
+      "term": "Angle of attack",
+      "def": "The angle between the wing's chord line and the air flowing past it."
+    },
+    {
+      "term": "Stall",
+      "def": "The point where the air separates from the top of the wing at too steep an angle, so lift falls."
+    },
+    {
+      "term": "Drag",
+      "def": "The force of air resisting the aeroplane's motion, made of parasite drag and the induced drag that comes with lift."
+    },
+    {
+      "term": "Lift-to-drag ratio",
+      "def": "How much lift a wing makes for each unit of drag. Airliners in cruise reach about 16 to 1."
+    },
+    {
+      "term": "Density altitude",
+      "def": "The height in standard air that has the same density as the air you are in."
+    },
+    {
+      "term": "Bypass ratio",
+      "def": "The mass of air a turbofan pushes round its core, divided by the mass that goes through the core."
+    },
+    {
+      "term": "Glide ratio",
+      "def": "The forward distance an aeroplane covers for each unit of height it loses, in still air."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "aeroplaneclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
